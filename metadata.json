@@ -1,0 +1,6 @@
+{
+  "name": "URAYAMA FESTIVAL 2026 - 破却 / HAKYAKU",
+  "description": "浦山学園祭2026 公式サイト。ダーク＆クールをコンセプトにした次世代カルチャーフェスティバル。タイムテーブル、模擬店マップ、グランプリ投票、デジタル整理券を発行。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
